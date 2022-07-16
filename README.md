@@ -1,5 +1,7 @@
 # Mp3dl-tag
-Lazy mp3 downloader and tagger – very not good.
+Lazy mp3 downloader and tagger – very not good. 
+
+Tons of stuff can be improved, but cba
 
 The process is as follos: 
     download mp4 from yt -> convert to mp3 using ffmpeg -> tag with meta data from discogs
